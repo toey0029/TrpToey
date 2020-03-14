@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5fc541-7bcd-443a-86bf-1c27c84c6a18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lecture 29.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lecture 31.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
-  <component name="RunManager" selected="Python.Lecture 29">
+  <component name="RunManager" selected="Python.Lecture 31">
     <configuration name="Exercise4_Teerapob_H" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TrpToey" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,8 +121,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lecture 31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TrpToey" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 31.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lecture 31" />
         <item itemvalue="Python.Lecture 29" />
         <item itemvalue="Python.Lecture 28" />
         <item itemvalue="Python.Lecture 27" />
@@ -142,7 +165,7 @@
       <updated>1584201613223</updated>
       <workItem from="1584201615219" duration="1349000" />
       <workItem from="1584203038018" duration="2220000" />
-      <workItem from="1584205311955" duration="2694000" />
+      <workItem from="1584205311955" duration="3671000" />
     </task>
     <servers />
   </component>
@@ -166,22 +189,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1370" y="281" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584202845521" />
-    <state width="580" height="281" key="GridCell.Tab.0.bottom" timestamp="1584208769806">
+    <state width="580" height="281" key="GridCell.Tab.0.bottom" timestamp="1584209906855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="580" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584208769806" />
-    <state width="580" height="281" key="GridCell.Tab.0.center" timestamp="1584208769805">
+    <state width="580" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584209906855" />
+    <state width="580" height="281" key="GridCell.Tab.0.center" timestamp="1584209906854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="580" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584208769805" />
-    <state width="580" height="281" key="GridCell.Tab.0.left" timestamp="1584208769805">
+    <state width="580" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584209906854" />
+    <state width="580" height="281" key="GridCell.Tab.0.left" timestamp="1584209906854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="580" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584208769805" />
-    <state width="580" height="281" key="GridCell.Tab.0.right" timestamp="1584208769806">
+    <state width="580" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584209906854" />
+    <state width="580" height="281" key="GridCell.Tab.0.right" timestamp="1584209906855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="580" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584208769806" />
+    <state width="580" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584209906855" />
     <state x="926" y="169" key="SettingsEditor" timestamp="1584205396330">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -195,6 +218,7 @@
     <SUITE FILE_PATH="coverage/TrpToey$Exercise4_Teerapob_H.coverage" NAME="Exercise4_Teerapob_H Coverage Results" MODIFIED="1584203051204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrpToey$Lecture_27.coverage" NAME="Lecture 27 Coverage Results" MODIFIED="1584203986640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrpToey$Lecture_29.coverage" NAME="Lecture 29 Coverage Results" MODIFIED="1584208769798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TrpToey$Lecture_31.coverage" NAME="Lecture 31 Coverage Results" MODIFIED="1584209906841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TrpToey$Lecture_28.coverage" NAME="Lecture 28 Coverage Results" MODIFIED="1584206015011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
