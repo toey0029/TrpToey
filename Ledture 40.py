@@ -1,6 +1,6 @@
 user = input("ID : ")
 password = input("password : ")
-if user == "Toey" and password == "1234":
+if user == "toey" and password == "1234":
     print("wellcome")
     print("---ishop---")
     print("1.Vat Caculator")

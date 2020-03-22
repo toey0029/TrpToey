@@ -1,4 +1,4 @@
-score = int(input("Glad : "))
+score = int(input("Score : "))
 if score >= 80:
     print("A")
 elif score >= 75:
