@@ -15,3 +15,5 @@ elif score >= 50:
     print("D")
 else:
     print("F")
+total = 0
+print(total+5)
