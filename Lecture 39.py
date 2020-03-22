@@ -13,5 +13,5 @@ elif score >= 55:
     print("D+")
 elif score >= 50:
     print("D")
-elif score < 50:
+else:
     print("F")
