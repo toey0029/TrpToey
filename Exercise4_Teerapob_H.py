@@ -1,4 +1,5 @@
-start = int(input("start : "))
-step = int(input("step : "))
-for i in range(5):
-    print(start+step*i,end=" ")
+number = int(input("Enter a number : "))
+for i in range(number):
+    space = " " * (number - (i+1))
+    asterisk = "*" * ((i*2)+1)
+    print(space, asterisk)
