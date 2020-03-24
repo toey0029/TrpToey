@@ -1,5 +1,7 @@
-number = int(input("Enter a number : "))
+
+number = int(input("How many stars? : "))
 for i in range(number):
-    space = " " * (number - (i+1))
-    asterisk = "*" * ((i*2)+1)
-    print(space, asterisk)
+    text = "" 
+    for j in range(2*i+1):
+        text += "*"
+    print(" "*(number-i-1)+text)
