@@ -11,5 +11,5 @@ class Cat(Animal):
         print("Meaw !!",self.name)
 cat1=Cat()
 cat1.setName("TT")
-print(cat1.__name)
+#print(cat1.__name)
 cat1.eat()
